@@ -9,15 +9,16 @@
 </h2>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="225" height="225" alt="side_sticker" align="right"/>
-I’m Diego Vega, a Software Developer student at Universidad Tecnológica Emiliano Zapata del Estado de Morelos (UTEZ).<br>
-I work as a freelancer and on personal projects. I’m passionate about creating innovative solutions, exploring new technologies, and constantly improving my skills.<br>
-My goal is to become a Full Stack Developer while also diving deeper into blockchain, Web3, and cybersecurity.
+I’m Diego Vega, a fullstack developer, software engineering student and freelancer based in México.<br>
+I work on freelance and personal projects, passionate about creating innovative solutions, exploring new technologies, and constantly improving my skills.<br>
+Currently diving deeper into blockchain, Web3, and cybersecurity, building things that connect Web3 with real needs.
 </p>
 
+**🔭 I’m currently working on:** [ZKML-Soroban](https://github.com/ZKML-Soroban/ZKML-Soroban) & [BolPay](https://github.com/diegoveme/BolPay)  
 **🌱 I’m currently learning:** Rust and building Smart Contracts with Soroban  
-**👯 I’m looking forward to:** Collaborating on open source projects  
 **💡 My focus areas:** Web development, Blockchain & Web3, Smart contracts, Cybersecurity, Linux  
+**👯 I’m looking forward to:** Collaborating on open source projects  
+**🗣️ Languages:** Español · English (B2) · Français (A2)  
 **⚡ In my free time:** Exploring Rust, Web3, cybersecurity, and experimenting with Linux environments to strengthen my developer workflow  
 
 ---
