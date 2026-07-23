@@ -98,26 +98,23 @@ Currently diving deeper into blockchain, Web3, and cybersecurity, building thing
 
 ---
 
-<h2 style="font-size:50px;" align="left">📊 Github Stats</h2>
-
-[![](https://github-readme-stats.vercel.app/api?username=diegoveme&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/diegoveme)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=diegoveme&theme=material-palenight)](https://github.com/diegoveme)
-
 ---
 
-<h2 style="font-size:50px;" align="left">🤝 Connect with me</h2>
+<h2 style="font-size:50px;" align="center">🤝 Connect with me</h2>
 
-<a href= "https://www.instagram.com/diego_veme">
+<div align="center">
+  <a href="https://www.instagram.com/diego_veme">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://x.com/diegosanvm" >
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/diego-vega-762397371/" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://t.me/diegoveme">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+  </a>
+  <a href="https://x.com/diegosanvm">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/diego-vega-762397371/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/diegoveme">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
